@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;tpPOO.Colis.java&apos; to &apos;Coli.java&apos;&#x0D;&#x0A;- Original project: &apos;tpPOO&apos;&#x0D;&#x0A;- Original element: &apos;tpPOO.Colis.java&apos;&#x0D;&#x0A;- Renamed element: &apos;tpPOO.Coli.java&apos;" description="Rename compilation unit &apos;Colis.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;tpPOO{Colis.java" name="Coli.java" references="false" stamp="1670510560879" version="1.0"/>
+</session>

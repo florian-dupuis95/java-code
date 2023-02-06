@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\spyro\OneDrive\Documents\bachelor\java\programme\.metadata\.plugins\org.eclipse.jdt.core
+363867876.index
+1356705479.index
+883749742.index
+1865797976.index
+4049998510.index
+769111049.index
+4267277520.index
+3690592842.index
+3474197850.index

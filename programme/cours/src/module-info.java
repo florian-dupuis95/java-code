@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author spyro
+ *
+ */
+module cours {
+}

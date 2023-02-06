@@ -1,0 +1,20 @@
+package pokedex;
+
+import java.util.HashMap;
+
+public class utils {
+	
+	public HashMap<String, Pokemon> filterByType(String type) {
+		
+		
+		HashMap<String, Pokemon> pokemonType =new HashMap<String, Pokemon>();
+		
+		for(HashMap.Entry<String, Pokemon> entry : pokedex.entrySet()) {
+			if (name == entry.getKey()) {
+				
+			}
+		}
+		
+		return pokemonType;
+	}
+}

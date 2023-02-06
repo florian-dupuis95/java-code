@@ -1,0 +1,30 @@
+package pokedex;
+
+import java.util.HashMap;
+
+public class Pokedex {
+	
+	private HashMap<String, Pokemon> pokedex = new HashMap<String, Pokemon>();
+	
+
+	public void addPokemon(Pokemon pokemon){
+		pokedex.put(pokemon.getNom(), pokemon);
+	}
+	
+	public Pokemon getPokemon(String name) {
+		Pokemon monPokemon= new Pokemon();
+
+		for(HashMap.Entry<String, Pokemon> entry : pokedex.entrySet()) {
+			if (name == entry.getKey()) {
+				monPokemon= entry.getValue();
+			}
+		}
+		
+		return monPokemon;
+	}
+
+	public HashMap<String, Pokemon> getPokedex() {
+		return pokedex;
+	}
+	
+}
